@@ -1,5 +1,5 @@
 # Contributing
-
+-🌐❤️
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the [Code Of Conduct](https://github.com/EddieHubCommunity/.github/blob/main/CODE_OF_CONDUCT.md).
 
